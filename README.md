@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# Welcome to my GitHub Profile!
+
+I do business, but mostly on the snack table (BA Business Management). 
+
 <!--
 **vineta160/vineta160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-** Welcome to my GitHub Profile! **
+**Welcome to my GitHub Profile!**
 
 I do business, but mostly on the snack table (BA Business Management). 
 
